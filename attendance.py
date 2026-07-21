@@ -1,1 +1,2 @@
-print("Attendance module")
+def markAttendance(name):
+    print(name + " marked present")
