@@ -1,1 +1,2 @@
-print("Report Module")
+def calculateMarks(marks):
+    return sum(marks)
