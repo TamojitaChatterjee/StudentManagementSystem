@@ -2,4 +2,4 @@
 
 This project manages student attendance, marks and reports.
 
-Developer A updated README
+Developer B updated README
